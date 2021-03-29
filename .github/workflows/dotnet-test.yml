@@ -6,7 +6,7 @@ on:
 #   pull_request:
 #     branches: [ master ]
 env:
-  GitHubPackageFeedUrl: https://nuget.pkg.github.com/animal-adoption-portal/index.json
+  GitHubPackageFeedUrl: https://nuget.pkg.github.com/github-org-test-pyj/index.json
   LogicProjectPath: ${{ github.WORKSPACE }}/AnimalAdoption.Common.Logic
   
 jobs:
